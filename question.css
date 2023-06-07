@@ -1,0 +1,59 @@
+.Questionns {
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
+  padding-top: 5%;
+}
+.search_css {
+  padding-top: 5%;
+}
+.nnd {
+  font-size: medium;
+}
+.color_grey {
+  background-color: #808080;
+  padding: 20%;
+  font-size: larger;
+  font-family: fantasy;
+  border-style: groove;
+  border-color: aqua;
+}
+.color_change {
+  background-color: #cecece;
+  padding: 20%;
+  font-size: larger;
+  font-family: fantasy;
+  border-style: groove;
+  border-color: aqua;
+}
+.changes_arr {
+  background-color: white;
+  padding: 20%;
+  font-size: larger;
+  font-family: fantasy;
+  border-style: groove;
+  border-color: aqua;
+}
+.changes_selling {
+  background-color: #cecece;
+  padding: 20%;
+  font-size: larger;
+  font-family: fantasy;
+  border-style: groove;
+  border-color: aqua;
+}
+.changes_general {
+  background-color: #808080;
+  padding: 20%;
+  font-size: larger;
+  font-family: fantasy;
+  border-style: groove;
+  border-color: aqua;
+}
+.all_changes {
+  padding-top: 5%;
+}
+.IN_LAST {
+  font-size: smaller;
+  padding: 15%;
+}
